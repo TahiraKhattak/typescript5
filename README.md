@@ -10,14 +10,14 @@ The API enables users to view detailed information about a specific pet store an
 Run the following command from your project directory to install the package from npm:
 
 ```ts
-npm install tahiratesttypescript2@1.0.5
+npm install tahiratesttypescript2@1.0.6
 ```
 
-For additional package details, see the [Npm page for the tahiratesttypescript2@1.0.5  npm](https://www.npmjs.com/package/tahiratesttypescript2/v/1.0.5).
+For additional package details, see the [Npm page for the tahiratesttypescript2@1.0.6  npm](https://www.npmjs.com/package/tahiratesttypescript2/v/1.0.6).
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/TahiraKhattak/typescript5/tree/1.0.5/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/TahiraKhattak/typescript5/tree/1.0.6/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -64,10 +64,10 @@ This API uses `OAuth 2 Bearer token`.
 
 ## List of APIs
 
-* [Pets](https://www.github.com/TahiraKhattak/typescript5/tree/1.0.5/doc/controllers/pets.md)
+* [Pets](https://www.github.com/TahiraKhattak/typescript5/tree/1.0.6/doc/controllers/pets.md)
 
 ## Classes Documentation
 
-* [ApiResponse](https://www.github.com/TahiraKhattak/typescript5/tree/1.0.5/doc/api-response.md)
-* [ApiError](https://www.github.com/TahiraKhattak/typescript5/tree/1.0.5/doc/api-error.md)
+* [ApiResponse](https://www.github.com/TahiraKhattak/typescript5/tree/1.0.6/doc/api-response.md)
+* [ApiError](https://www.github.com/TahiraKhattak/typescript5/tree/1.0.6/doc/api-error.md)
 
